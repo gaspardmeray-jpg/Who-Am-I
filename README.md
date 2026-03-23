@@ -1,4 +1,4 @@
-# Gaspard Méray
+# Gaspard MÉRAY
 
 **Finance Student | Quantitative Finance & Python | ESSCA School of Management**
 
@@ -23,10 +23,10 @@
 
 | Project | Description |
 |--------|-------------|
-| 🔵 [Black-Scholes & Volatility Smile](#) | Options pricing model with implied volatility surface on AAPL |
-| 🟢 [Monte Carlo Simulations](#) | Stock price path simulations and risk analysis on AAPL |
-| 🟡 [Long/Short Momentum-Value Strategy](#) | Quantitative equity strategy combining momentum and value signals |
-| 🟠 [Jegadeesh-Titman Momentum](#) | Replication of the classic 1993 momentum paper in Python |
+| 🔵 [Black-Scholes & Volatility Smile](#) | Options pricing model with implied volatility surface|
+| 🟢 [Monte Carlo Simulations](#) | Stock price path simulations and risk analysis|
+| 🟡 [Long/Short Momentum-Value Strategy](#) | Quantitative equity strategy combining momentum and value signals|
+| 🟠 [Jegadeesh-Titman Momentum](#) | Replication of the classic 1993 momentum paper in Python|
 
 ---
 

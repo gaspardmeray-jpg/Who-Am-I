@@ -4,7 +4,7 @@
 
 ---
 
-🎓 4th-year Grande École student specializing in **Finance, Banking & Financial Engineering**  
+🎓 4th-year Grande École student specializing in **Finance, Banking & Financial Engineering** and currently looking for 6 months internship  
 📍 Based in France | Open to internships in **Trading, Asset Management & Structured Products**  
 📈 Targeting front-office roles at leading financial institutions (S&T, AM, Quant)
 

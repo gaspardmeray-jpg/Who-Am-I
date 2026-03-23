@@ -31,5 +31,4 @@
 ---
 
 ## 📫 Contact
-
-[![LinkedIn](https://www.linkedin.com/in/gaspard-méray-617484235/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/gaspard-méray-617484235/)

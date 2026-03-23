@@ -1,6 +1,6 @@
 # Gaspard MÉRAY
 
-**Finance Student | Quantitative Finance & Python | ESSCA School of Management**
+** Master's Degree in Finance | Quantitative Finance & Python | ESSCA School of Management**
 
 ---
 

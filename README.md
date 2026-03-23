@@ -1,4 +1,4 @@
-# Gaspard Meray
+# Gaspard Méray
 
 **Finance Student | Quantitative Finance & Python | ESSCA School of Management**
 

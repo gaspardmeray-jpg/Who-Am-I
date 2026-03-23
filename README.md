@@ -32,4 +32,4 @@
 
 ## 📫 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/gaspard-meray)
+[![LinkedIn](https://www.linkedin.com/in/gaspard-méray-617484235/)

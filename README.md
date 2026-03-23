@@ -14,7 +14,7 @@
 
 **Quantitative Finance** — Options Pricing, Monte Carlo Simulations, Volatility Surface, Momentum & Long/Short Strategies  
 **Python** — pandas, numpy, scipy, matplotlib, yfinance  
-**Finance** — DCF Valuation, M&A Modelling, WACC, Black-Scholes, Fixed Income  
+**Finance** — DCF Valuation, M&A Modelling, Black-Scholes, Fixed Income  
 **Tools** — Excel (advanced), Bloomberg (notions), VS Code, GitHub
 
 ---

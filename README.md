@@ -4,8 +4,8 @@
 
 ---
 
-🎓 4th-year Grande École student specializing in **Finance, Banking & Financial Engineering** and currently looking for 6 months internship  
-📍 Based in France | Open to internships in **Trading, Asset Management & Structured Products**  
+🎓 4th-year Grande École student specializing in **Finance, Banking & Financial Engineering**
+📍 Based in France | Currently looking for a 3-4 months internship as Market Risk Analyst   
 📈 Targeting front-office roles at leading financial institutions (S&T, AM, Quant)
 
 ---
@@ -14,8 +14,7 @@
 
 **Quantitative Finance** — Options Pricing, Monte Carlo Simulations, Volatility Surface, Momentum & Long/Short Strategies  
 **Python** — pandas, numpy, scipy, matplotlib, yfinance  
-**Finance** — DCF Valuation, M&A Modelling, Black-Scholes, Fixed Income  
-**Tools** — Excel (advanced), Bloomberg (notions), VS Code, GitHub
+**Tools** — Excel (advanced), Bloomberg (Notions), VS Code, GitHub
 
 ---
 
@@ -26,9 +25,9 @@
 | 🔵 [Black-Scholes & Volatility Smile](https://github.com/gaspardmeray-jpg/black-scholes-options-pricing) | Options pricing model with implied volatility surface on AAPL |
 | 🟢 [Monte Carlo Simulations](https://github.com/gaspardmeray-jpg/monte-carlo-stock-simulation) | Stock price path simulations and risk analysis on AAPL |
 | 🔴 [Value at Risk Analysis](https://github.com/gaspardmeray-jpg/value-at-risk-analysis) | VaR estimation using historical and parametric methods on AAPL |
-| 🟡 [Long/Short Momentum-Value Strategy](https://github.com/gaspardmeray-jpg/long-short-momentum-value-strategy) | Quantitative equity strategy combining momentum and value signals |
-| 🟠 [Jegadeesh-Titman Momentum](https://github.com/gaspardmeray-jpg/jegadeesh-titman-momentum) | Replication of the classic 1993 momentum paper in Python |
-| 🟣 [Portfolio Optimization](https://github.com/gaspardmeray-jpg/portfolio-optimization) | Markowitz efficient frontier and optimal portfolio construction |
+| 🟡 [Long/Short Momentum-Value Strategy](https://github.com/GaspardMry/Long-Short-Momentum-Value-Strategy) | Quantitative equity strategy combining momentum and value signals |
+| 🟠 [Jegadeesh-Titman Momentum](https://github.com/GaspardMry/Jegadeesh-Titman-Momentum) | Replication of the classic 1993 momentum paper in Python |
+| 🟣 [Portfolio Optimization](https://github.com/GaspardMry/Portfolio-Optimization) | Markowitz efficient frontier and optimal portfolio construction |
 
 ---
 

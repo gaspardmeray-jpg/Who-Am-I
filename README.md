@@ -23,10 +23,12 @@
 
 | Project | Description |
 |--------|-------------|
-| 🔵 [Black-Scholes & Volatility Smile](#) | Options pricing model with implied volatility surface|
-| 🟢 [Monte Carlo Simulations](#) | Stock price path simulations and risk analysis|
-| 🟡 [Long/Short Momentum-Value Strategy](#) | Quantitative equity strategy combining momentum and value signals|
-| 🟠 [Jegadeesh-Titman Momentum](#) | Replication of the classic 1993 momentum paper in Python|
+| 🔵 [Black-Scholes & Volatility Smile](https://github.com/gaspardmeray-jpg/black-scholes-options-pricing) | Options pricing model with implied volatility surface on AAPL |
+| 🟢 [Monte Carlo Simulations](https://github.com/gaspardmeray-jpg/monte-carlo-stock-simulation) | Stock price path simulations and risk analysis on AAPL |
+| 🔴 [Value at Risk Analysis](https://github.com/gaspardmeray-jpg/value-at-risk-analysis) | VaR estimation using historical and parametric methods on AAPL |
+| 🟡 [Long/Short Momentum-Value Strategy](https://github.com/gaspardmeray-jpg/long-short-momentum-value-strategy) | Quantitative equity strategy combining momentum and value signals |
+| 🟠 [Jegadeesh-Titman Momentum](https://github.com/gaspardmeray-jpg/jegadeesh-titman-momentum) | Replication of the classic 1993 momentum paper in Python |
+| 🟣 [Portfolio Optimization](https://github.com/gaspardmeray-jpg/portfolio-optimization) | Markowitz efficient frontier and optimal portfolio construction |
 
 ---
 

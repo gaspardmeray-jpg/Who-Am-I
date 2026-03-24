@@ -6,7 +6,7 @@
 
 🎓 4th-year Grande École student specializing in **Finance, Banking & Financial Engineering**
 
-📍 Based in France | Currently looking for a 3-4 months internship as Market Risk Analyst   
+📍 **Based in France** | Currently looking for a 3-4 months internship as Market Risk Analyst   
 
 📈 Targeting front-office roles at leading financial institutions (S&T, AM, Quant)
 
@@ -14,8 +14,10 @@
 
 ## 🛠️ Skills
 
-**Quantitative Finance** — Options Pricing, Monte Carlo Simulations, Volatility Surface, Momentum & Long/Short Strategies  
-**Python** — pandas, numpy, scipy, matplotlib, yfinance  
+**Quantitative Finance** — Options Pricing, Monte Carlo Simulations, Volatility Surface, Momentum & Long/Short Strategies
+
+**Python** — pandas, numpy, scipy, matplotlib, yfinance
+
 **Tools** — Excel (advanced), Bloomberg (Notions), VS Code, GitHub
 
 ---

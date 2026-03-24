@@ -18,7 +18,7 @@
 
 **Python** — pandas, numpy, scipy, matplotlib, yfinance
 
-**Tools** — Excel (advanced), Bloomberg (Notions), VS Code, GitHub
+**Tools** — Excel (Advanced), Bloomberg (Notions), VS Code, GitHub
 
 ---
 
